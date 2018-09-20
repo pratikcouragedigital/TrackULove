@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="cardTheme">
+        <item name="android:textColorHint">@color/addedByName</item>//hint color And Label Color in
+        False State
+        <item name="colorAccent">@color/colorAccent</item>
+        //Label color in True State And Bar Color False And True State
+        <item name="colorControlNormal">@color/addedByName</item>
+        <item name="colorControlActivated">@color/btnbgcolor</item>
+    </style>
+
+</resources>

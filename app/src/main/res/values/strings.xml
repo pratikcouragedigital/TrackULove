@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrackUloved</string>
+    <string name="url">http://android.studentcares.net/api/v1/studentcares/</string>
+</resources>
